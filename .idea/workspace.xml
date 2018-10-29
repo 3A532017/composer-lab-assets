@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3641c395-a715-4911-bbfe-0ab0e57087f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auto10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auto43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/Task.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/database/migrations/2018_10_23_110837_create_tasks_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/public/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/public/svg/403.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/public/svg/404.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/public/svg/500.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/public/svg/503.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/public/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/resources/js/components/ExampleComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/resources/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/resources/views/common/errors.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/resources/views/layouts/app.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/resources/views/tasks.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart2" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="920917013">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="2" />
+          <entry key="sql" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="2" />
+          <entry key="SQL" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.php.composer.actions" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.rename.constructor" />
+      <usages-collector id="statistics.php.new.test" />
+      <usages-collector id="statistics.php.composer.command.options" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bootstrap.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bootstrap.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="453" />
+    <option name="width" value="1400" />
+    <option name="height" value="991" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="composer-lab-assets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="composer-lab-assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="composer-lab-assets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="composer-lab-assets" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3641c395-a715-4911-bbfe-0ab0e57087f1" name="Default Changelist" comment="" />
+      <created>1540785222584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540785222584</updated>
+      <workItem from="1540785226850" duration="1304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1304000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="453" y="0" width="1400" height="991" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25373134" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/database/database.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
